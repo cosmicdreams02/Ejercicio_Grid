@@ -1,7 +1,7 @@
 #padre {
     display:grid;
-    grid-template-columns: 5% 8% 5% 2% 40% 5% 2%;
-    grid-template-rows: 100px 100px 100px 100px 100px 100px 100px 100px 100px;
+    grid-template-columns: 36px 38px 44px 45px 63px 45px 40px;
+    grid-template-rows: 50px 55px 67px 56px 36px 55px 14px 44px 42px;
     
 }
 
